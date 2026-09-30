@@ -25,7 +25,7 @@
   - Plotly `go.Heatmap`
   - Plotly `figure_factory.create_annotated_heatmap`
 - **컬러맵**: `plt.colormaps()`에 있는 전체 목록에서 선택
-- **데이터 (3종)**: -1~1 균등 난수, 표준정규 난수, -100~99 정수 난수
+- **데이터 (3종)**: [-1, 1) 균등 난수, 표준정규 난수, [-100, 100) 정수 난수
 
 ## 실행
 
